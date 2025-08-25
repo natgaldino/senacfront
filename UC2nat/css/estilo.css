@@ -1,0 +1,82 @@
+#Principal{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+
+body{
+    background-color: rgb(250, 204, 248);
+}
+
+nav, section, footer{
+    text-align: center;
+}
+
+#logotipo {
+    text-align: center;
+    background-color: white;
+}
+
+#logotipo img { 
+    width: 150px;
+    height: 150px;
+}
+
+#menu ul{
+    list-style: none;
+}
+
+#menu ul li{
+    display: inline;
+    padding: 10px;
+}
+
+#menu ul li a{
+    text-decoration: none;
+    color: rgb(116, 0, 112);
+}
+
+#img_loja img{
+width: 1100px;
+height: 600px;
+}
+
+#rodape{
+    color: rgb(116, 0, 112);
+}
+
+#um {
+    color: whitesmoke;
+}
+
+.rodape2{
+    
+    text-align: center;
+    display: inline-block;
+}
+
+.rodape2 img{
+    width: 100px;
+    height: 100px; 
+}
+
+.conteudo2 img{
+    width: 250px;
+    height: 200px;
+}
+
+.conteudo2{
+    text-align: center;
+    display: inline-block;
+    margin-left: 30px;
+    margin-bottom: 150px;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+
+#conteudo h3{
+    color: rgb(116, 0, 112);
+}
+
+.rodape1{
+    background-color: white;
+}

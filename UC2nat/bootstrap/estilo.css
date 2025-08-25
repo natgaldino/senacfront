@@ -1,0 +1,41 @@
+.logo img{
+    width: 200px;
+    height: 200px;
+}
+
+.text h5{
+    color: rgb(247, 123, 247);
+    text-decoration-thickness: 5px; 
+}
+
+.text p{
+    color: rgb(247, 123, 247);
+}
+
+.imagens img{
+    width: 700px;
+    height: 800px;
+}
+
+body{
+    background-color: rgb(250, 204, 248);
+}
+
+.form-row{
+   align-items: center;
+   
+}
+
+.x h4{
+color: rgb(87, 77, 87);
+}
+
+.x p{
+    color: rgb(87, 77, 87);
+}
+
+
+.z img{
+    width: 500px;
+    height: 500px;
+}
